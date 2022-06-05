@@ -1,0 +1,60 @@
+.body{
+    margin-top: 5rem;
+}
+
+.body1 > div{
+    display: flex;
+    flex-direction: row;
+    column-gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.body1  {
+    color: white;
+    margin: 3rem 0rem 1.5rem 1.5rem;
+}
+
+.body2 > div {
+    column-gap: 1rem;
+    display: flex;
+    flex-direction: row;
+}
+.body2 {
+    margin: 3rem 0rem 1.5rem 1.5rem;
+    color: white;
+}
+
+.body3 > div{
+    display: flex;
+    flex-direction: row;
+    column-gap: 1rem;
+}
+
+.body3 {
+    margin: 3rem 0rem 1.5rem 1.5rem;
+    color: white;
+}
+
+
+.body4 > div{
+    display: flex;
+    flex-direction: row;
+    column-gap: 1rem;
+}
+
+.body4{
+    margin: 3rem 0rem 1.5rem 1.5rem;
+    color: white;
+}
+
+
+.body5 > div{
+    display: flex;
+    flex-direction: row;
+    column-gap: 1rem;
+}
+
+.body5{
+    margin: 3rem 0rem 1.5rem 1.5rem;
+    color: white;
+}

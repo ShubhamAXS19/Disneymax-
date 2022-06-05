@@ -1,0 +1,17 @@
+li{
+    list-style: none;
+    color: #fff;
+
+}
+
+ul{
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-start;
+    flex-grow: 3;
+    column-gap: 2rem;
+} 
+
+.navbar{
+    background-color: #121926;
+}
